@@ -1,0 +1,11 @@
+c:\users\erick cruz\documents\visual studio 2015\Projects\C#\PedidosTransportes\PedidosTransportes\bin\Debug\PedidosTransportes.exe.config
+c:\users\erick cruz\documents\visual studio 2015\Projects\C#\PedidosTransportes\PedidosTransportes\bin\Debug\PedidosTransportes.exe
+c:\users\erick cruz\documents\visual studio 2015\Projects\C#\PedidosTransportes\PedidosTransportes\bin\Debug\PedidosTransportes.pdb
+c:\users\erick cruz\documents\visual studio 2015\Projects\C#\PedidosTransportes\PedidosTransportes\obj\Debug\PedidosTransportes.exe
+c:\users\erick cruz\documents\visual studio 2015\Projects\C#\PedidosTransportes\PedidosTransportes\obj\Debug\PedidosTransportes.pdb
+G:\Blog\PedidosTransportes\PedidosTransportes\bin\Debug\PedidosTransportes.exe.config
+G:\Blog\PedidosTransportes\PedidosTransportes\obj\Debug\PedidosTransportes.exe
+G:\Blog\PedidosTransportes\PedidosTransportes\obj\Debug\PedidosTransportes.pdb
+G:\Blog\PedidosTransportes\PedidosTransportes\bin\Debug\PedidosTransportes.exe
+G:\Blog\PedidosTransportes\PedidosTransportes\bin\Debug\PedidosTransportes.pdb
+G:\Blog\PedidosTransportes\PedidosTransportes\obj\Debug\PedidosTransportes.csprojResolveAssemblyReference.cache
