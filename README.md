@@ -6,6 +6,7 @@ Hacer un sistema de pedidos de medios de transporte en los cuales hay 2 tipos de
         2- Automóviles (Livianos y Pesados)
 
 En función de cuales soliciten los clientes calcular (EN FUNCIONES SEPARADAS - OBLIGATORIO):
+
         01- Numero total de motos
         02- Numero total de motos Acuaticas
         03- Numero total de motos terrestres
@@ -24,6 +25,7 @@ En función de cuales soliciten los clientes calcular (EN FUNCIONES SEPARADAS - 
 
         13- Neto a Pagar
         14- Total de articulos
+        
 
 Si la moto es acuatica, se le sumaran $3000 a cada moto acuatica por permisos bla bla bla
 Si el auto es pesado, se le sumaran $5000 a cada auto pesado, por papeleos, bla bla bla
