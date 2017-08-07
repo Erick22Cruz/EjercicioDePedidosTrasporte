@@ -28,4 +28,5 @@ En función de cuales soliciten los clientes calcular (EN FUNCIONES SEPARADAS - 
         
 
 Si la moto es acuatica, se le sumaran $3000 a cada moto acuatica por permisos bla bla bla
+
 Si el auto es pesado, se le sumaran $5000 a cada auto pesado, por papeleos, bla bla bla
