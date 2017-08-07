@@ -1,6 +1,6 @@
 # EjercicioDePedidosTrasporte
 
-Hacer un sistema de pedidos de medios de transporte en los cuales hay 2 tipos de pedidos:
+#Hacer un sistema de pedidos de medios de transporte en los cuales hay 2 tipos de pedidos:
         1- Motos (Terrestre y Acuáticas)
         2- Automóviles (Livianos y Pesados)
 
